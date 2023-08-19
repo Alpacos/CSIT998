@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="banner">banner</string>
+    <string name="menu" >menu</string>
+    <string name="search" >search</string>
+    <string name="staff_id">Staff ID</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="dob">DOB</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="position">Position</string>
+    <string name="reset">reset</string>
+    <string name="submit">submit</string>
+    <string name="edit_staff_profile">Edit Staff Profile</string>
+    <string name="add_staff">Add Staff</string>
+    <string name="date_of_birth_dd_mm_yyyy">Date of Birth (DD/MM/YYYY)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="username">Username</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="add_member">Add Member</string>
+    <string name="edit">Edit</string>
+    <string name="edit_member_profile">Edit Member Profile</string>
+    <string name="member_id">Member ID</string>
+    <string name="location">Location</string>
+    <string name="user_id_or_email">Username/Email</string>
+    <string name="forgot_password">Forget?</string>
+    <string name="new_here_sign_up">Sign Up</string>
+</resources>
