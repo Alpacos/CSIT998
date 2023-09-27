@@ -33,4 +33,17 @@
     <string name="next">Next</string>
     <string name="reset_password">Reset Password</string>
     <string name="enter_password_again">Enter password again</string>
+    <string name="schedule">Schedule</string>
+    <string name="ai">AI</string>
+    <string name="member_management">Member Management</string>
+    <string name="staff_management">Staff Management</string>
+    <string name="course_management">Course Management</string>
+    <string name="facility_management">Facility Management</string>
+    <string name="remove">Remove</string>
+    <string name="assign">Assign</string>
+    <string name="back">Back</string>
+    <string name="comfirm">Comfirm</string>
+    <string name="add">add</string>
+    <string name="cancel">Cancel</string>
+    <string name="view">View</string>
 </resources>
