@@ -39,5 +39,7 @@
     <string name="staff_management">Staff Management</string>
     <string name="course_management">Course Management</string>
     <string name="facility_management">Facility Management</string>
+    <string name="report">Report</string>
+    <string name="complaint_management">Complaint Management</string>
 
 </resources>
