@@ -1,0 +1,76 @@
+Last meeting:
+
+UI mapping
+usecase/class diagram consistancy
+
+
+following:
+1.database design & Machine learning part
+
+""research part""
+Machine learning what used here
+examples(after function)
+reference(2-3)
+name/exsiting algorithms
+algorithms adjustment for app
+
+
+prediction model (2-3 algorithms)
+function: input dataset of members, predict his/her following workout plan
+disadvantages and advantages
+improve it
+
+
+2.proposal(week 12 Sunday)
+
+Introduction:
+1. background
+2. current solutions ( marketplace )
+3. our solutions
+4. aims of subsection
+5. related work 
+purpose all requirements.
+
+subsction:
+literature review: AI model
+
+design part:
+user story brainstorm
+use case/class diagram design
+sequence diagram
+UI design
+database design
+AI model training
+
+implementation:
+plan
+4 scrums
+
+
+Methodology:
+increasement software dev appoarches
+all the platform we used, software management tools
+timeline(Ganttchart) milestone
+scrum 4-5 sprint purpose 
+
+
+Outcome:
+application prototype(UI) 
+teammember
+
+appendix:
+meeting mins
+workload each member contribution 
+
+implementation process:
+UI
+database
+function test and repeat
+8 weeks for coding
+
+2 ppl as small group
+basic essential function -- admin/user
+
+
+
+
